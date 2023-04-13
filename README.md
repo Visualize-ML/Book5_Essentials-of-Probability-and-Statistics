@@ -6,3 +6,4 @@
 代码及PDF文件下载：https://github.com/Visualize-ML
 本书配套微课视频均发布在B站——生姜DrGinger：https://space.bilibili.com/513194466
 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
+知乎：https://www.zhihu.com/people/jamestong-xue
