@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 13 16:49:54 2023
-
-@author: james
-"""
-
 
 
 ###############
